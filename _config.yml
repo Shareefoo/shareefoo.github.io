@@ -26,23 +26,21 @@ description: >- # used by seo meta and the atom feed
 url: "https://shareefoo.github.io"
 
 github:
-  username: shareefoo # change to your github username
+  username: shareefoo
 
 twitter:
-  username: shareefsersawi # change to your twitter username
+  username: shareefsersawi
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Shareef Sersawi
-  email: shareefsersawi@gmail.com # change to your email address
+  email: shareefsersawi@gmail.com
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/shareefsersawi # change to your twitter homepage
-    - https://github.com/shareefoo # change to your github homepage
-    # Uncomment below to add more social links
-    # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://twitter.com/shareefsersawi
+    - https://github.com/shareefoo
+    - https://www.linkedin.com/in/shareefoo
 
 # Site Verification Settings
 webmaster_verifications:
