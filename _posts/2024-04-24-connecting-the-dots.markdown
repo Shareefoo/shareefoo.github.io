@@ -27,14 +27,16 @@ I kept reading and I though this might be the moment where I stick to the idea o
 </ul>
 and many others.
 
-and the reasons why I liked Jekyll is first their philosophy which they described on their page and that philosophy goes by:
+and one of the reasons why I liked Jekyll is their philosophy which they described on their page and that philosophy goes by:
 <blockquote>
     Jekyll does what you tell it to do — no more, no less. It doesn't try to outsmart users by making bold assumptions, nor does it burden them with needless complexity and configuration. Put simply, Jekyll gets out of your way and allows you to concentrate on what truly matters: your content.
 </blockquote>
 
-<br>
+another reason is the ability to use Jekyll to make GitHub Pages which simplifies the whole process of creating your own website and hosting it on your GitHub account and that sounded very intriguing to me as a Programmer because I'll be actually coding my posts using a Code Editor or an IDE of my choice and not just writing in a plain white page on some content management system. 
 
-The goal of this blog is to write about topics that interests me (there will be a few like I mentionted) mainly about Tech as I'm a Software Developer who worked as an Android Developer for some time, there'll be other posts about lifestyle, health, sports and video games! and and I hope that someone who share the same interest in one of the topics will find something useful here and maybe we can connect and share experiences!
+So in the end, it was a win-win situation for me, I'll contrtibute more to Github, learn a new tool and language which is Ruby in this case because Jekyll is built on Ruby after all and I'll share my thoughts or stories in a cool way.
+
+The goal of this blog is to write about topics that interests me (there will be a few like I mentionted before) mainly about Tech as I'm a Software Developer, there'll be other posts about lifestyle, health, sports and video games! and and I hope that someone who share the same interest in one of the topics will find something useful here and maybe we can connect and share experiences!
 
 <br>
 
