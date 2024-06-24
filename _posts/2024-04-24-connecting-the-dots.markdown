@@ -1,8 +1,7 @@
 ---
 title: The Birth of Connecting The Dots ..
 date: 2024-04-24 22:30:00 +0500
-categories: [blog, news]
-tags: blogging
+tags: [blogging]
 ---
 
 <p><b>"Connecting the dots .."</b></p> 
