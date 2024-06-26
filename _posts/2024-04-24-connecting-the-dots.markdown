@@ -10,12 +10,16 @@ The motto that I've chosen, which kinda describes me in some way, as a person wh
 ![Desktop View](/assets//img/knowledge-and-experience.jpg){: width="400" height="264" }
 _Knowledge vs Experience_
 
-<b>Knowledge</b> is the amount of information that you've acquired over the years through reading, listening or education but in order to get a benefit from this information you need to connect the pieces together and make them work, so in a way you need to practice the knowledge and that's how <b>Experience</b> is formed.
+<b>Knowledge</b> is the amount of information that you've acquired over the years through reading, listening or education but without experience it's just information. and this information does not grow over time if it's not being used so in order to get a benefit from this information you need to connect the pieces together and make them work, so in a way you need to practice the knowledge and that's how <b>Experience</b> is formed and you'll more likely be able to retain this knowledge over time.
 
 - Knowledge can be taught
 - Experience needs practice
 
+and we need both! if we don't even have any dots in the first place, we can't do anything useful anyway.
+
+<i>
 "Gaining experience and skill is harder and scarier than gaining knowledge. Do it anyway. Start small. Set yourself up to try and fail where the stakes are low."
+</i>
 
 <br>
 So that is what I'm aiming for with this blog, is to practice more in the areas that I'm weak at or have some knowledge about but not a good practice, for example "writing".
