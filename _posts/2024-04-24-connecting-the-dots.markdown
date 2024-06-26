@@ -5,12 +5,12 @@ tags: [blogging]
 ---
 
 <p><b>"Connecting the dots .."</b></p> 
-The motto that I've chosen, which kinda describes me in some way, as a person who has many interests and a good base of information on a lot of subjects and I can talk with you about almost anything but at the same time I can't say I'm the best at one specific thing so in some way I'm like Jack of all Trades Master of None. That's why I feel like this motto represents me and my path into improving and connecting a lot of different pieces together. and this can be perfectly described by this picture below:
+The motto that I've chosen, which kinda describes me in some way, as a person who has many interests and a good base of information on a lot of subjects and I can talk with you about almost anything but at the same time I can't say I'm the best at one specific thing so in some way I'm like <b>Jack of all Trades Master of None</b>. That's why I feel like this motto represents me and my path into improving and connecting a lot of different pieces together. and this can be perfectly described by this picture below:
 
 ![Desktop View](/assets//img/knowledge-and-experience.jpg){: width="400" height="264" }
 _Knowledge vs Experience_
 
-<b>Knowledge</b> is the amount of information that you've acquired over the years through reading, listening or education but without experience it's just information. and this information does not grow over time if it's not being used so in order to get a benefit from this information you need to connect the pieces together and make them work, so in a way you need to practice the knowledge and that's how <b>Experience</b> is formed and you'll more likely be able to retain this knowledge over time.
+<b>Knowledge</b> is the amount of information that you've acquired over the years through reading, listening or education but without experience it's just information. and this information does not grow over time if it's not being used so in order to get a benefit from this information you need to connect the pieces together and make them work, so in a way you need to practice this knowledge and that's how <b>Experience</b> is formed and you'll more likely be able to retain this knowledge over time.
 
 - Knowledge can be taught
 - Experience needs practice
@@ -22,7 +22,7 @@ and we need both! if we don't even have any dots in the first place, we can't do
 </i>
 
 <br>
-So that is what I'm aiming for with this blog, is to practice more in the areas that I'm weak at or have some knowledge about but not a good practice, for example "writing".
+So that is what I'm aiming for with this blog, to practice more in the areas that I'm weak at or have some knowledge about but not a good practice, in this case "writing".
 
 <br>
 I've been thinking about making a blog for god knows how long now!
@@ -30,8 +30,9 @@ I've been thinking about making a blog for god knows how long now!
 I've only managed to take the first step, started writing some stuff and researching about the best way to publish the blog. but for some reason I didn't continue and stopped, then just switched to do something else and forgot about the whole thing for some time.
 
 But the idea was still in the back of my head and it kept haunting me for quite some time until the moment that I read about something called <b>Jekyll</b> which is:
-<br><i>"a simple, blog-aware, static site generator perfect for personal, project or organization sites"</i>
-<br>
+
+<i>"a simple, blog-aware, static site generator perfect for personal, project or organization sites"</i>
+
 That grabbed my attention and I kept reading and I thought this might be the moment where I stick to the idea of blogging using this tool, and there's a few reasons that got me interested in <b>Jekyll</b> specifically, because as many of us know, there are quite a few ways to make a blog such as:
 <ul>
     <li>WordPress (probably the most popular)</li>
@@ -48,10 +49,10 @@ and one of the reasons why I liked <b>Jekyll</b> is their philosophy which they 
 
 another reason is the ability to use Jekyll to make <b>GitHub Pages</b> which simplifies the whole process of creating your own website and hosting it on your GitHub account and that sounded very intriguing to me as a Programmer because I'll be actually coding my posts using a Code Editor or an IDE of my choice and not just writing in a plain white page on some content management system. 
 
-So in the end, it was a win-win situation for me, I'll contribute more to Github, learn a new tool and language which is <b>Ruby</b> in this case because Jekyll is built on Ruby after all and I'll share my thoughts or stories in a cool way.
+So in the end, it was a win-win situation for me, I'll contribute more to Github, learn a new tool and a new language which is <b>Ruby</b> in this case because Jekyll is built on Ruby after all and I'll share my thoughts or stories in a cool way.
 
 <br>
-The goal of this blog is to write about topics that interests me (there will be a few like I mentioned before) but mainly about Tech as I'm a Software Engineer and how to apply different tech in our everyday life to improve our productivity, health and lifestyle in general.
+The goal of this blog is to write about topics that interests me (there will be a few like I mentioned before) but mainly about Technology as I'm a Software Engineer and how to apply different technologies in our everyday life to improve our productivity, health and lifestyle in general.
 
 and I hope that someone who shares the same interest in one of the topics will find something useful here and maybe we can connect and share experiences!
 
