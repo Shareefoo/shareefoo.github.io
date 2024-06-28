@@ -2,6 +2,7 @@
 title: How Can a Widget on Your Phone Improve Your Health ?
 date: 2024-06-24 20:00:00 +0500
 tags: [health, lifestyle]
+published: false
 ---
 
 ### The 10,000 steps a day cult

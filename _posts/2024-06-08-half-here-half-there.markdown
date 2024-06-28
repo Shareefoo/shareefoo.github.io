@@ -2,6 +2,7 @@
 title: Half here Half there
 date: 2024-06-08 22:00:00 +0500
 tags: [life]
+published: false
 ---
 
 <b>The 8th of June, 2024</b> - a day that I won't forget for quite some time as it was very stressful, confusing and contradicting in every way.
