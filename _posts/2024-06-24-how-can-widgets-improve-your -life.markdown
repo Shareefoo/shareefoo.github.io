@@ -11,11 +11,13 @@ We've all heard and read about the importance of walking **10,000 steps a day** 
 **So how can we improve our health in the age of technology using the technology itself ?**
 
 \
-Most of us usually add an item to their daily to-do list like (Walk 10,000 steps) and mark it as done at the end of the day when we've achieved that but sometimes we forget to check that item of the list or maybe we even forget to check how many steps we've walked today because this requires us to intentionally open our steps tracking app and thus putting an effort and remembering to do that every single day. but we can fix this using a very simple technique.
+Most of us usually add an item to their daily to-do list like (Walk 10,000 steps) and mark it as done at the end of the day when we've achieved that but sometimes we forget to check that item of the list or maybe we even forget to check how many steps we've walked today because this requires us to intentionally open our pedometer or steps tracking app thus putting an effort and remembering to do that every single day. but we can fix this using a very simple technique.
 
-This simple technique that I did and you can do to improve your cardiovascular health and walk more is using the science of **"cueing"** or **"triggering"**, in psychology and behavioral science, this phenomenon relates to how environmental cues around you prompt specific behaviors or actions. for example in our case, seeing a widget on your phone main screen reminding you to walk more and move around will trigger the behavior of getting 10,000 steps a day.
+This simple technique that I did and you can do to improve your cardiovascular health and walk more is using the science of **"cueing"** or **"triggering"**.
 
-Over the years I've used many phones mainly Android phones with many different custom setups which is one of the reasons I prefer Android phones more than iPhones, the customizability is on another level, and I've always had some health and fitness apps to record my activity levels and track my workouts but one main constant was the Samsung Health app since I used Samsung phones the most.
+In psychology and behavioral science, this phenomenon relates to how environmental cues around you prompt specific behaviors or actions. for example in our case, seeing a widget on your phone main screen reminding you to walk more and move around will trigger the behavior of getting 10,000 steps a day.
+
+Over the years I've used many phones mainly Android phones with many different custom setups which is one of the reasons I prefer Android phones more than iPhones, the customizability is on another level but that's a topic for another day, also I've always had some health and fitness apps to record my activity levels and track my workouts but one main constant was the Samsung Health app since I used Samsung phones the most.
 
 and while these apps tracked my steps everyday in the background I didn't pay much attention to how much I walked in a specific day since you need to actively open the app to check that but one day I thought maybe I should put a steps counter widget on my main screen so it'll be the first thing I see when I use my phone and this way I applied the science of **"cueing"** to remind me how much I was active that day.
 
@@ -54,6 +56,31 @@ _Goal completed (2021)_
 
 ![Desktop View](/assets/how-can-widgets-improve-your-life/Screenshot_20210404-223532_One%20UI%20Home.jpg){: width="200" height="400" }
 _Goal completed (2021)_
+
+### What about Smartwatches or other wearable gadgets ? 
+
+So far, we've only talked about how mobile phones can improve our health, and while most phones today come equipped with built-in sensors, such as accelerometers, gyroscopes, and GPS technology, which form the foundation for measuring and calculating your movement and steps count, adopting new habits like walking 10,000 steps every day makes you think about how can you improve and refine this process, and when you try to improve this aspect of your life you will find that phones might not be very accurate at doing that, they're still pretty good and in most cases you'll fine with just only your phone but their accuracy might be off sometimes due to different factors like the direction your phone pointing at or where you put your phone, in a pocket or a bag and sometimes you walk a lot in one place like your home or the office but you don't really have your phone on you and it's just sitting on a table, but you want to add in theses steps to your daily total. in fact there are studies out there that shows this inaccuracy
+
+ This study for example tried to verify the accuracy of smartphones apps for steps counting, comparing results from a medical-grade accelerometer worn on and it showed the apps overestimated the average daily step count of around 8,500 steps by close to 500 steps.[^1]
+
+ [^1]: https://pubmed.ncbi.nlm.nih.gov/36582382/
+
+
+Again, your phone is fine for most cases and the accuracy will still be above 90% which is pretty good but if you want to go the extra mile, get more accurate measurements and know all the ins and outs of your activity level then you need a wearable gadget like a smart band or a smartwatch.
+
+As a person who likes technology and electronic devices in general, getting a smartwatch seemed like a good idea and a reason for me get more active and stick to healthy habits, I saw this as a motivation.
+
+At the time in 2021, the best thing that was available for me as a Samsung Galaxy phone owner was the Galaxy Watch Active 2, so I got that! 
+
+![Desktop View](/assets/how-can-widgets-improve-your-life/20210429_212304.jpg){: width="400" height="400" }
+_My First Smartwatch (2021)_
+
+
+**Did I get better with the smartwatch ?**
+
+If you're really interested in knowing and tracking your activity levels, getting a smartwatch can be a good investment and a good motivation for you to move more as it'll offer more features for you to explore.
+
+another benefit of a smartwatch, you can go out for a run without taking your phone with you.
 
 
 ### The Result
