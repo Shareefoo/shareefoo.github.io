@@ -6,18 +6,15 @@ order: 1
 
 A few of the apps and projects I've built. More coming soon.
 
-## Project Name
+## Cup & Clock
 
-<!-- Add a screenshot once the file exists in assets/img/projects/:
-![Project screenshot](/assets/img/projects/your-file.jpg){: w="700" h="400" }
-_Short caption for the screenshot_
--->
+![Cup & Clock: guided brew timers and a log of every bag and cup](/assets/img/projects/cup-and-clock.png){: w="1024" h="500" }
 
-Describe the app in one or two sentences: what problem it solves and who it is for.
+A coffee brewing companion for people who want a better cup at home. It guides you through each brew step by step, adjusts recipes to your cup size and taste, and keeps a log of your beans and every cup you rate.
 
-- **Platform:** Android / iOS / Flutter / ...
-- **Tech:** Kotlin, Jetpack Compose, ...
-- **Links:** [Source code](https://github.com/Shareefoo) · [Play Store](https://play.google.com/)
+- **Platform:** Android and iOS (coming soon)
+- **Tech:** Kotlin Multiplatform, Compose Multiplatform, Room, DataStore, Koin
+- **Links:** [Privacy policy](/cup-and-clock/privacy/)
 
 ---
 
