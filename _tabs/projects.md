@@ -30,6 +30,18 @@ A sleep timer shaped like a candle. Hold to light it and the candle burns down w
 
 ---
 
+## Stopwise
+
+![Stopwise: your day, in the best order](/assets/img/projects/stopwise.png){: w="1024" h="500" }
+
+A day planner for a day of stops. Add your appointments, errands and meet-ups, and Stopwise puts them in the best order, shows the route on a map with how long each trip takes, and tells you when to leave. It can suggest a closer branch of a pharmacy or bank, keep errands for a day when they fit your route, and re-plan from where you are once you're on the go.
+
+- **Platform:** Android
+- **Tech:** Kotlin Multiplatform, Compose Multiplatform, SQLDelight, Google Maps Platform (Places, Routes, Maps SDK)
+- **Links:** [Privacy policy](/stopwise/privacy/)
+
+---
+
 ## Another Project
 
 Describe it here.
