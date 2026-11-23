@@ -18,6 +18,18 @@ A coffee brewing companion for people who want a better cup at home. It guides y
 
 ---
 
+## Night Wick
+
+![Night Wick: a sleep timer by candlelight](/assets/img/projects/night-wick.png){: w="1024" h="500" }
+
+A sleep timer shaped like a candle. Hold to light it and the candle burns down while you drift off; over the last ten minutes it gently fades out whatever you're listening to, then pauses it. It also has a dim bedside candle for the nightstand and a wake alarm that starts quiet and rises.
+
+- **Platform:** Android
+- **Tech:** Kotlin Multiplatform, Compose Multiplatform, Android foreground services and AlarmManager
+- **Links:** [Privacy policy](/night-wick/privacy/)
+
+---
+
 ## Another Project
 
 Describe it here.
