@@ -6,7 +6,7 @@ order: 1
 
 A few of the apps and projects I've built. More coming soon.
 
-## Stopwise
+## [Stopwise](/stopwise/)
 
 ![Stopwise: your day, in the best order](/assets/img/projects/stopwise.png){: w="1024" h="500" }
 
@@ -14,11 +14,12 @@ A day planner for a day of stops. Add your appointments, errands and meet-ups, a
 
 - **Platform:** Android
 - **Tech:** Kotlin Multiplatform, Compose Multiplatform, SQLDelight, Google Maps Platform (Places, Routes, Maps SDK)
-- **Links:** [Privacy policy](/stopwise/privacy/)
+- **Get it:** Coming soon to Google Play
+- **Links:** [App page](/stopwise/) · [Privacy policy](/stopwise/privacy/)
 
 ---
 
-## Cup & Clock
+## [Cup & Clock](/cup-and-clock/)
 
 ![Cup & Clock: guided brew timers and a log of every bag and cup](/assets/img/projects/cup-and-clock.png){: w="1024" h="500" }
 
@@ -26,11 +27,12 @@ A coffee brewing companion for people who want a better cup at home. It guides y
 
 - **Platform:** Android and iOS (coming soon)
 - **Tech:** Kotlin Multiplatform, Compose Multiplatform, Room, DataStore, Koin
-- **Links:** [Privacy policy](/cup-and-clock/privacy/)
+- **Get it:** Coming soon to Google Play
+- **Links:** [App page](/cup-and-clock/) · [Privacy policy](/cup-and-clock/privacy/)
 
 ---
 
-## Night Wick
+## [Night Wick](/night-wick/)
 
 ![Night Wick: a sleep timer by candlelight](/assets/img/projects/night-wick.png){: w="1024" h="500" }
 
@@ -38,4 +40,5 @@ A sleep timer shaped like a candle. Hold to light it and the candle burns down w
 
 - **Platform:** Android
 - **Tech:** Kotlin Multiplatform, Compose Multiplatform, Android foreground services and AlarmManager
-- **Links:** [Privacy policy](/night-wick/privacy/)
+- **Get it:** Coming soon to Google Play
+- **Links:** [App page](/night-wick/) · [Privacy policy](/night-wick/privacy/)
